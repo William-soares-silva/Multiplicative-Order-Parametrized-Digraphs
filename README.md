@@ -50,7 +50,7 @@ $n = 3$ is left open.
     resulting candidate pairs, with no upper bound on the candidates;
   - independent recomputation routines used to cross-check every reported
     order.
-- `data/` &mdash; Near misses csv.
+- `data/` &mdash; near_misses_.csv.
 
 ## Reproducibility
 
