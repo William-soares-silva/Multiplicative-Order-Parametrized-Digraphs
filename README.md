@@ -3,7 +3,7 @@
 Computational verification code and manuscript source for the article
 *Multiplicative-Order Parametrized Digraphs*.
 
-**Author:** William Kau&atilde; Soares da Silva (Universidade Federal Rural de Pernambuco)
+**Authors:** William Kau&atilde; Soares da Silva (Federal Rural University of Pernambuco) and Maigan Stefanne Da Silva Alc\^{a}ntara (Federal Rural University of Pernambuco)
 
 ## Overview
 
@@ -41,7 +41,7 @@ $n = 3$ is left open.
 ## Repository contents
 
 - `manuscript/` &mdash; LaTeX source of the article.
-- `Multiplicative_Order_Parametrized_Digraphs.ipynb/` &mdash; Python scripts (sympy/numpy) implementing the computational
+- `Multiplicative_Order_Parametrized_Digraphs.ipynb` &mdash; Python scripts (sympy/numpy) implementing the computational
   searches reported in the article:
   - exhaustive triangle search over all odd primes below $3 \times 10^{5}$
     for aligned triples;
@@ -63,29 +63,9 @@ the manuscript.
 
 Requirements: Python 3.10+, `sympy 1.14.0`, `numpy 2.0.2`.
 
-```bash
-pip install sympy numpy
-python code/triangle_search.py --bound 300000
-```
-
-## Status
-
-The manuscript is in preparation. Theorems on realizing sets, pairwise coprime
-sets and aligned sets are complete with full proofs; the non-existence
-statement for aligned sets of cardinality $n \geq 4$ is a conjecture, supported
-by the computational evidence above and by a heuristic count, and is explicitly
-distinguished from the proved results throughout.
 
 ## License
 
 - Manuscript: &copy; The author.
 - Code: MIT License (see `LICENSE`).
 
-## Citation
-
-Until the article is published, please cite this repository directly:
-
-```
-W. K. Soares da Silva. Multiplicative-Order Parametrized Digraphs:
-computational verification code. GitHub repository, 2026.
-```
