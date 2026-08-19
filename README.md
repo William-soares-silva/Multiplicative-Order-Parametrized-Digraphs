@@ -8,9 +8,9 @@ Computational verification code and manuscript source for the article
 ## Overview
 
 For a set $\mathcal{P} = \{p_1, \dots, p_n\}$ of distinct odd primes and a
-positive integer $m$, the digraph $\Xi_m(\mathcal{P})$ has vertex set
-$\mathcal{P}$ and an edge from $p_i$ to $p_j$ exactly when
-$p_i^{m} \equiv 1 \pmod{p_j}$. Writing $r_{ij} = \operatorname{ord}_{p_j}(p_i)$,
+positive integer $m$, the digraph $\Xi_m(\mathcal{P})$ has vertex set 
+$\mathcal{P}$ and an edge from $p_i$ to $p_j$ exactly when 
+$p_i^{m} \equiv 1 \pmod{p_j}$. Writing $r_{ij}= ord_{p_j}(p_i)$,
 an edge is present exactly when $r_{ij} \mid m$, so the family
 $\Xi(\mathcal{P})$ swept out by $m$ is finite and is governed entirely by the
 multiset of the $n(n-1)$ multiplicative orders.
