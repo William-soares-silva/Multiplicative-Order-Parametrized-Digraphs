@@ -3,7 +3,7 @@
 Computational verification code and manuscript source for the article
 *Multiplicative-Order Parametrized Digraphs*.
 
-**Authors:** William Kau&atilde; Soares da Silva (Federal Rural University of Pernambuco) and Maigan Stefanne Da Silva Alc\^{a}ntara (Federal Rural University of Pernambuco)
+**Authors:** William Kau&atilde; Soares da Silva (Federal Rural University of Pernambuco) and Maigan Stefanne Da Silva Alcântara (Federal Rural University of Pernambuco)
 
 ## Overview
 
