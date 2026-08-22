@@ -40,7 +40,7 @@ $n = 3$ is left open.
 
 ## Repository contents
 
-- `Multiplicative_Order_Parametrized_Digraphs.pdf` &mdash; LaTeX source of the article.
+- `Multiplicative_Order_Parametrized_Digraphs.pdf`.
 - `Multiplicative_Order_Parametrized_Digraphs.ipynb` &mdash; Python scripts (sympy/numpy) implementing the computational
   searches reported in the article:
   - exhaustive triangle search over all odd primes below $3 \times 10^{5}$
